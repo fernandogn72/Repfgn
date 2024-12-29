@@ -1,8 +1,8 @@
 # -*- coding: utf-8 -*-
 """
-Created on Wed Dec 18 15:42:27 2024
+Created on Wed Dec 29 18:08:20 2024
 
-@author: jean.maidana
+@author: fgn
 """
 
 import pandas as pd
